@@ -1,0 +1,20 @@
+Desarrollo IOS
+Historia del Desarrollo iOS
+
+¿Qué es?
+El desarrollo iOS consiste en la creación de aplicaciones para dispositivos de Apple 
+como iPhone, iPad y iPod Touch. Utiliza principalmente los lenguajes Swift y Objective-C,
+y se realiza en el entorno de desarrollo Xcode.
+
+¿Para qué sirve?
+Sirve para crear aplicaciones móviles seguras, rápidas y optimizadas para el ecosistema Apple.
+Permite desarrollar apps de productividad, redes sociales, entretenimiento, videojuegos,
+aplicaciones empresariales y mucho más, aprovechando servicios como iCloud, Apple Pay y
+la App Store.
+
+Fechas importantes:
+- 2007: Apple lanza el primer iPhone con iOS 1.0 (en ese momento llamado iPhone OS).
+- 2008: Se abre la App Store con alrededor de 500 aplicaciones.
+- 2014: Apple lanza Swift, un nuevo lenguaje de programación para iOS y macOS.
+- Actualidad: Swift es el estándar principal y existen DreamWorks modernos como Swift UI
+  que facilitan el desarrollo de interfaces gráficas.
