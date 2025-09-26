@@ -1,7 +1,8 @@
 Imagen de desarrollo IOS
 
+![Logo iOS](ios.jpeg)
 
-"C:\Users\ANGELA\Downloads\descarga (4).jpeg"
+
 
 
 
