@@ -1,0 +1,21 @@
+Ejemplos de Desarrollo iOS
+
+
+Aplicaciones populares desarrolladas en iOS:
+- WhatsApp: Mensajería instantánea con llamadas y videollamadas.
+- Instagram: Red social para fotos y videos.
+- TikTok: Plataforma de videos cortos y entretenimiento.
+- Uber: Aplicación de transporte y movilidad.
+
+Versiones de iOS destacadas:
+- iOS 1.0 (2007): Primera versión del sistema para el iPhone.
+- iOS 5 (2011): Introducción de iMessage y el centro de notificaciones.
+- iOS 7 (2013): Rediseño completo de la interfaz gráfica.
+- iOS 14 (2020): Introducción de widgets en la pantalla principal.
+- iOS 18 (2024): Avances en inteligencia artificial y personalización.
+
+Casos de uso:
+- Aplicaciones empresariales para gestión interna.
+- Videojuegos con alto rendimiento gráfico (Ejemplo: PUBG Mobile, Genshin Impact).
+- Aplicaciones de salud y fitness integradas con Apple Watch.
+- Apps educativas que aprovechan realidad aumentada (ARKit).
